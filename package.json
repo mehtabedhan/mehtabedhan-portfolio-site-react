@@ -1,6 +1,6 @@
 {
-  "name": "MehtabEdhan",
-  "homepage":"https://www.mehtabedhan.com/portfolio",
+  "name": "mehtabedhan",
+  "homepage":"https://www.mehtabedhan.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
