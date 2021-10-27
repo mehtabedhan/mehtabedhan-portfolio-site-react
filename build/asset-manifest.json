@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e80fb926.chunk.css",
+    "main.js": "/portfolio/static/js/main.fb3d45c3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fb3d45c3.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.34b1a514.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.34b1a514.js.map",
+    "static/js/2.076424e5.chunk.js": "/portfolio/static/js/2.076424e5.chunk.js",
+    "static/js/2.076424e5.chunk.js.map": "/portfolio/static/js/2.076424e5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.e80fb926.chunk.css.map": "/portfolio/static/css/main.e80fb926.chunk.css.map",
+    "static/js/2.076424e5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.076424e5.chunk.js.LICENSE.txt",
+    "static/media/about-img.629f8c2a.jpg": "/portfolio/static/media/about-img.629f8c2a.jpg",
+    "static/media/address.a01cb8cc.png": "/portfolio/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/portfolio/static/media/award.a796a64f.png",
+    "static/media/daman.0ef4530d.jpg": "/portfolio/static/media/daman.0ef4530d.jpg",
+    "static/media/email.a49e0158.png": "/portfolio/static/media/email.a49e0158.png",
+    "static/media/gwalior.24149bf1.jpg": "/portfolio/static/media/gwalior.24149bf1.jpg",
+    "static/media/jaisalmer.81472f47.jpg": "/portfolio/static/media/jaisalmer.81472f47.jpg",
+    "static/media/kashmir.c0347ffa.jpg": "/portfolio/static/media/kashmir.c0347ffa.jpg",
+    "static/media/me.bea4a01f.png": "/portfolio/static/media/me.bea4a01f.png",
+    "static/media/moon.3bea3d39.png": "/portfolio/static/media/moon.3bea3d39.png",
+    "static/media/panna.f099bb48.jpg": "/portfolio/static/media/panna.f099bb48.jpg",
+    "static/media/phone.d90a6d23.png": "/portfolio/static/media/phone.d90a6d23.png",
+    "static/media/spiti.8eb641a3.jpg": "/portfolio/static/media/spiti.8eb641a3.jpg",
+    "static/media/sun.f794832a.png": "/portfolio/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b1a514.js",
+    "static/js/2.076424e5.chunk.js",
+    "static/css/main.e80fb926.chunk.css",
+    "static/js/main.fb3d45c3.chunk.js"
+  ]
+}
